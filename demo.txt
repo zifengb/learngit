@@ -1,3 +1,4 @@
 Hello Git.
 I'm learning to use git.
 I'm learning to manager the files of git.
+I'm learning to use git more.
